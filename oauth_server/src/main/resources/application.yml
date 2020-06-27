@@ -5,7 +5,7 @@ spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://localhost:3306/demo_database?serverTimezone=GMT%2B8&useUnicode=true&characterEncoding=utf-8&allowPublicKeyRetrieval=true
-    password: godXiaoMysql8;
+    password: xxxx
     username: root
   main:
     allow-bean-definition-overriding: true  #允许覆盖spring放到IOC容器的对象
